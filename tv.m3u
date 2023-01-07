@@ -737,3 +737,23 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="Tevecat.es" tvg-logo="https://i.imgur.com/n8nkk8l.png" group-title="Undefined",teve.cat (1080p)
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="General",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="Entertainment",WTV Canal 20 (720p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-id="WuanPlus.ec" tvg-logo="https://i.imgur.com/9I4C4Ta.png" group-title="General",Wuan+
+https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
+#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/c8UObjI.png" group-title="General",X TV (Chachapoyas)
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/NssXCJO.png" group-title="Undefined",XTOTV (404p) [Not 24/7]
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
+#EXTINF:-1 tvg-id="YouDotGov.us" tvg-logo="https://i.imgur.com/4Mc7baR.png" group-title="Legislative",YouDotGov
+https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streama/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuma77.us" tvg-logo="https://i.imgur.com/KBriwwj.png" group-title="Legislative",Yuma77
+https://securestream6.champds.com/hlssstc/YumaCoAZLIVE/master.m3u8
+#EXTINF:-1 tvg-id="YumaChannel72.us" tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="Legislative",Yuma AZ CH 72
+https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streama/playlist.m3u8
+#EXTINF:-1 tvg-id="YumaChannel73.us" tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="Legislative",Yuma AZ CH 73
+https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streamb/playlist.m3u8
+#EXTINF:-1 tvg-id="Yunavision.do" tvg-logo="https://www.yunavision.com/images/yuna2sm.png" group-title="Undefined",Yunavisión
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
